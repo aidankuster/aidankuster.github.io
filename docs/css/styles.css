@@ -3,3 +3,8 @@
 p {
     font-family: 'Audiowide', sans-serif;
 }
+
+.jester-img {
+    float: right;
+    border-radius: 50%;
+}
